@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE apk-sanskrit SYSTEM "fli.dtd">
+
+<apk-sanskrit>
+    	<s1 title="ईशावास्योपनिषत् - सटिप्पणशाङ्करभाष्ययुता" author="" page="0001-0056" info="02:00:00:001" type="apk-sanskrit" date="00:00:2002"></s1>
+    	<s1 title="केनोपनिषत्" author="" page="0001-0111" info="01:00:00:002" type="apk-sanskrit" date="00:00:1959"></s1>
+    	<s1 title="काठकोपनिषत्" author="" page="0001-0155" info="01:00:00:003" type="apk-sanskrit" date="00:00:1962"></s1>
+    	<s1 title="मुण्डकोपनिषत्" author="" page="0001-0124" info="01:00:00:004" type="apk-sanskrit" date="00:00:1960"></s1>
+    	<s1 title="ऎतरेयोपनिषत्" author="" page="0000-0000" info="00:00:00:005" type="apk-sanskrit" date="00:00:0000"></s1>
+    	<s1 title="माण्डूक्यरहस्यविवृतिः (माण्डूक्योपनिषत्कारिकाव्याख्या शाङ्करभाष्योपेता)" author="" page="0000-0000" info="00:00:00:006" type="apk-sanskrit" date="00:00:0000"></s1>
+    	<s1 title="तैत्तिरीयोपनिषदि - शीक्षावल्ली - आनन्दवल्ली - भृगुवल्ली च" author="" page="0000-0000" info="00:00:00:007" type="apk-sanskrit" date="00:00:0000"></s1>
+    	<s1 title="सुगमा" author="" page="0001-0119" info="02:00:00:008" type="apk-sanskrit" date="00:00:1999"></s1>
+    	<s1 title="सूत्रभाष्यार्थतत्त्वविवेचनी - १" author="" page="0001-0122" info="01:00:00:009" type="apk-sanskrit" date="00:00:1964"></s1>
+    	<s1 title="सूत्रभाष्यार्थतत्त्वविवेचनी - २" author="" page="0001-0145" info="01:00:00:010" type="apk-sanskrit" date="00:00:1965"></s1>
+    	<s1 title="सूत्रभाष्यार्थतत्त्वविवेचनी - ३" author="" page="0001-0312" info="01:00:00:011" type="apk-sanskrit" date="00:00:1970"></s1>
+    	<s1 title="शुद्धशाङ्करप्रक्रियाभास्करः &#8212; १-२" author="" page="0001-0028" info="01:00:00:012" type="apk-sanskrit" date="00:00:1964"></s1>
+    	<s1 title="शुद्धशाङ्करप्रक्रियाभास्करः &#8212; ३-४-५" author="" page="0001-0048" info="01:00:00:013" type="apk-sanskrit" date="00:00:1964"></s1>
+    	<s1 title="शुद्धशाङ्करप्रक्रियाभास्करः &#8212; ६-७" author="" page="0001-0050" info="01:00:00:014" type="apk-sanskrit" date="00:00:1964"></s1>
+    	<s1 title="गीताशास्त्रार्थविवेकः" author="" page="0001-0196" info="00:00:00:015" type="apk-sanskrit" date="00:00:1965"></s1>
+    	<s1 title="ब्रह्मविद्यारहस्यविवृतिः" author="" page="0001-0134" info="01:00:00:016" type="apk-sanskrit" date="00:00:1969"></s1>
+    	<s1 title="नैष्कर्म्यसिद्धिः &#8212; क्लेशापहारिणीव्याख्यासहिता" author="" page="0001-0536" info="02:00:00:017" type="apk-sanskrit" date="00:00:2005"></s1>
+    	<s1 title="वेदान्तप्रक्रियाप्रत्यभिज्ञा &#8212; तत्र प्रथमः संपुटः" author="" page="0001-0000" info="01:00:00:018" type="apk-sanskrit" date="00:00:1964"></s1>
+    	<s1 title="वेदान्तबालबोधिनी" author="" page="0001-0054" info="01:00:00:019" type="apk-sanskrit" date="00:00:1959"></s1>
+    	<s1 title="वेदान्तडिण्डिमः" author="" page="0001-0070" info="02:00:00:020" type="apk-sanskrit" date="00:00:2002"></s1>
+    	<s1 title="विशुद्धवेदान्तसारः" author="" page="0001-0086" info="01:00:00:021" type="apk-sanskrit" date="00:00:1968"></s1>
+    	<s1 title="विशुद्धवेदान्तपरिभाषा" author="" page="0001-0131" info="01:00:00:022" type="apk-sanskrit" date="00:00:1969"></s1>
+    	<s1 title="शाङ्करं वेदान्तमीमांसाभाष्यम् (स्वयंव्याख्यातम्)" author="" page="0001-0105" info="01:00:00:023" type="apk-sanskrit" date="00:00:1974"></s1>
+    	<s1 title="वेदान्तविद्वग्दोष्ठी" author="" page="0001-0098" info="01:00:00:024" type="apk-sanskrit" date="00:00:1962"></s1>
+    	<s1 title="" author="" page="0000-0000" info="00:00:00:025" type="apk-sanskrit" date="00:00:0000"></s1>
+    	<s1 title="पञ्चपादिकाप्रस्थानम्" author="" page="0000-0000" info="00:00:00:026" type="apk-sanskrit" date="00:00:0000"></s1>
+    	<s1 title="मूलाविद्यानिरासः अथवा श्रीशङ्करहृदयम्" author="" page="0000-0000" info="00:00:00:027" type="apk-sanskrit" date="00:00:0000"></s1>
+    	<s1 title="पारमहंस्यमीमांसा" author="" page="0001-0146" info="01:00:00:028" type="apk-sanskrit" date="00:00:1994"></s1>
+    	<s1 title="भक्तिचन्द्रिका (नारदभक्तिसूत्राणां व्याख्या)" author="" page="0001-0214" info="01:00:00:029" type="apk-sanskrit" date="00:00:1999"></s1>
+    	<s1 title="भामतीसमालोचनम्" author="" page="0000-0000" info="00:00:00:030" type="apk-sanskrit" date="00:00:0000"></s1>
+</apk-sanskrit>
